@@ -1,6 +1,6 @@
 local gui = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/z4gs/scripts/master/testtttt.lua"))():AddWindow("Moonarii [Ro Ghoul]", {
     main_color = Color3.fromRGB(255, 191, 191),
-    min_size = Vector2.new(454, 682,),
+    min_size = Vector2.new(454, 682),
     can_resize = false
 })
 
