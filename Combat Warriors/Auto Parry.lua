@@ -1,5 +1,4 @@
 local lp = game.Players.LocalPlayer
-
 local animationInfo = {}
 
 function getInfo(id)
