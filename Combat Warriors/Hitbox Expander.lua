@@ -10,7 +10,7 @@ v.Character.Head.Transparency = 1
 v.Character.Head.BrickColor = BrickColor.new("Red")
 v.Character.Head.Material = "Neon"
 v.Character.Head.CanCollide = false
-v.Character.Head.Massless = false
+v.Character.Head.Massless = true
 end)
 end
 end
